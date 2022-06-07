@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is version 3 of my software
+=======
+This is version 2 of my software in github
+>>>>>>> 8871e11b49ecbd187a6b5185e56dc1eb95ab84b5
